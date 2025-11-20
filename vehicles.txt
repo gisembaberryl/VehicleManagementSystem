@@ -1,0 +1,6 @@
+Car: Toyota Corolla Seats: 5
+Car: Honda Civic Seats: 4
+Car: Mazda 90 Seats: 7
+Motorbike: Yamaha R15 Engine: 150cc
+Motorbike: Suzuki GSX Engine: 250cc
+Motorbike: Kawasaki Ninja Engine: 400cc
